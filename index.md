@@ -1,4 +1,6 @@
-## Welcome!
+## Shawn Bailey
+
+I am a full time software engineer and part time PhD candidate at Binghamton University. Before entering the work force, I previously was a teaching assistant for a Java course with Professor Les Lander, covering the basics of **Object Oriented Programming**. I also took pride in tutoring students online in various subjects of Math and Computer Science.
 
 ### Research 
 
