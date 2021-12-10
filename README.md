@@ -1,4 +1,4 @@
-# sbailey6.github.io
+# Table of Contents
 
 - [Research Papers](placeholder)
 - [Personal Projects](placeholder)
