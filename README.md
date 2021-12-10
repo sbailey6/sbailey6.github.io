@@ -1,5 +1,7 @@
 # Table of Contents
 
+A software engineer's collection of personal projects and research.
+
 - [Research Papers](placeholder)
 - [Personal Projects](placeholder)
 - [College Code](placeholder)
