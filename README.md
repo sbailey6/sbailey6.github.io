@@ -1,7 +1,5 @@
 # sbailey6.github.io
 
-## Table Of Contents
-
 - [Research Papers](placeholder)
 - [Personal Projects](placeholder)
 - [College Code](placeholder)
